@@ -48,6 +48,12 @@ a{
     font-size: 1.5rem;
     padding: 10px;
 }
+
+.section-1 a:hover{
+    filter: brightness(1.75);
+    transition: 0.2s;
+}
+
 /* section 2 */
 .section-2{
     padding-top: 4%;
@@ -63,11 +69,6 @@ a{
     font-size: 1.1rem;
     padding-bottom: 10px;
     margin:0;
-}
-
-.white:hover{
-    position: relative;
-    padding-left: 10px;
 }
 
 /* gallery */
